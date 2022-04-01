@@ -177,7 +177,7 @@ body {
 
 /* --------- Media queries */
 
-@media (max-width: 414px) {
+@media (max-width: 440px) {
     .controls-area {
         width: 100%;
     }
@@ -234,7 +234,7 @@ body {
 
 @media (max-width: 320px) {
     .game-area {
-        height: 70vh;
+        height: 70px;
     }
 
     .controls-area {
