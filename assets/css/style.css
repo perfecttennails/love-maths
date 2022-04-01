@@ -25,12 +25,13 @@ body {
     background-color: #E6ECF0;
     box-sizing: border-box;
     width: 85%;
-    height: 65vh;
+    height: 75vh;
     max-height: 450px;
     max-width: 830px;
     margin-left: auto;
     margin-right: auto;
-    padding: 1%;
+    padding: 6%;
+    border-radius: 8px;
 }
 
 .question-area {
@@ -47,7 +48,7 @@ body {
 .score-area {
     margin: 5px auto;
     width: 60%;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
 }
 
 .controls-area {
@@ -122,6 +123,7 @@ body {
 .btn--blue {
     border-color: blue;
     color: blue;
+    
 }
 
 .btn--blue:active,
