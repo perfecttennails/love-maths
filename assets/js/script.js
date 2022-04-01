@@ -87,9 +87,9 @@ function calculateCorrectAnswer() {
     if (operator === "+") {
         return [operand1 + operand2, "addition"];
     } else if (operator === "x") {
-        return [operand1 / operand2, "multiply"];
+        return [operand1 * operand2, "multiply"];
     }  else if (operator === "/"){
-        return [operand1 * operand2, "division"];
+        return [operand1 / operand2, "division"];
     } else if (operator === "-") {
         return [operand1 - operand2, "subtract"];
     } else {
