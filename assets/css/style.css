@@ -25,13 +25,13 @@ body {
     background-color: #E6ECF0;
     box-sizing: border-box;
     width: 85%;
-    height: 75vh;
-    max-height: 450px;
+    height: 60vh;
+    max-height: 350px;
     max-width: 830px;
     margin-left: auto;
     margin-right: auto;
-    padding: 6%;
-    border-radius: 8px;
+    padding: 1px;
+    border-radius: 30px;
 }
 
 .question-area {
@@ -68,7 +68,7 @@ body {
 
 .answer-message {
     display: none;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 #answer-box {
@@ -101,7 +101,7 @@ body {
 }
 
 .btn--big {
-    padding-top: 5px;
+    padding-top: 6px;
     border-radius: 50%;
     background-color: white;
     border: 10px solid;
@@ -166,7 +166,7 @@ body {
 }
 
 .btn--gray {
-    margin-top: 25px;
+    position:relative;
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
