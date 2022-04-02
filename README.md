@@ -1,4 +1,4 @@
-#A puzzle game called Love Maths.
+-**A puzzle game called Love Maths.**
 
 You can view the live game [(here!)](https://perfecttennails.github.io/love-maths/)
 
