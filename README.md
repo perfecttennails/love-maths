@@ -1,4 +1,4 @@
--**A puzzle game called Love Maths.**
+# A puzzle game called Love Maths.
 
 You can view the live game [(here!)](https://perfecttennails.github.io/love-maths/)
 
@@ -57,5 +57,5 @@ No unfixed bugs
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
     - In the GitHub repository, navigate to the Settings tab
-    - From the source section drop-down menu, select the Master Branch
-    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    - From the source section drop-down menu, select the Main Branch
+    - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
