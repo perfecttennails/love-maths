@@ -4,7 +4,7 @@ You can view the live game [(here!)](https://perfecttennails.github.io/love-math
 
 A math quiz to test the users knowledge on addittion, subtraction, multiplication and division.
 
-This is the responsive look.
+## This is the responsive look.
 ![Quiz main Page](assets/images/media-responsive.png)
 
 -**Quiz Page**
@@ -12,16 +12,16 @@ This is the responsive look.
 - The users total score of correct and wrong answers are displayed at the bottom.
 
 
-This is the Subtraction 
+## This is the Subtraction 
 ![Quiz main Page](assets/images/subtraction.png)
 
-This is the Addition 
+## This is the Addition 
 ![Quiz main Page](assets/images/addition.png)
 
-This is the Multiplication 
+## This is the Multiplication 
 ![Quiz main Page](assets/images/multiplication.png)
 
-This is the Division 
+## This is the Division 
 ![Quiz main Page](assets/images/division.png)
 
 - **Navigation**
